@@ -1,4 +1,4 @@
-## TesMuffler Hardware Dongle v1 
+## DMuffler Hardware Dongle v1 
 
 This repository contains information and manufacturing files for the CANOPi automotive prototyping plattform.
 
@@ -9,9 +9,9 @@ This repository contains information and manufacturing files for the CANOPi auto
 
 <br><br>
 
-The TesMuffler Hardware Dongle is a baseboard for the [Raspberry Compute Module 4 (CM4)](https://www.raspberrypi.com/products/compute-module-4).
+The DMuffler Hardware Dongle is a baseboard for the [Raspberry Compute Module 4 (CM4)](https://www.raspberrypi.com/products/compute-module-4).
 
-With a TesMuffler Hardware Dongle you have all the ingredients for hacking vehicles and prototyping Software Defined Vehicle functions and applications.
+With a DMuffler Hardware Dongle you have all the ingredients for hacking vehicles and prototyping Software Defined Vehicle functions and applications.
 
  * Compatible with the Raspberry Pi ecosystem thanks to the CM4
  * Up to 8GB of RAM and up to 32GB eMMC or any size micro SD card storage
@@ -31,7 +31,7 @@ With a TesMuffler Hardware Dongle you have all the ingredients for hacking vehic
 
 If you set up a fresh CM4 that has never been used before in CANOPi you need to update the EEPROM first
 
- * [Updating CM4 EEPROM for TesMuffler Dongle](./Software_Documentation/update_eeprom.md)
+ * [Updating CM4 EEPROM for DMuffler Dongle](./Software_Documentation/update_eeprom.md)
 
  In order to make full use of all hardware components, you need to configure your Raspberry OS
 
